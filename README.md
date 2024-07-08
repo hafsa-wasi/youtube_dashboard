@@ -6,4 +6,4 @@ The individual video analysis section features an intuitive drop-down menu, allo
 demographics and performance metrics through engaging charts.
 ◦ Tech: Python, Panda, Numpy, Plotly, Streamlit
 
-◦ Project-link: youtube-data-analysis-dashboard.streamlit.app/
+◦ Project-link: https://youtube-data-analysis-dashboard.streamlit.app/
